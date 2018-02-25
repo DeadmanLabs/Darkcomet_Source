@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65056, "Minimize"
+65057, "Maximize"
+65058, "Close"
+65059, "Minimize to Tray"
+65060, "Roll Up"
+65061, "System menu"
+65062, "Restore"
+65063, "Failed attempting to retrieve time zone information."
+65064, "Error on call to Winsock2 library function %s"
+65065, "Error on loading Winsock2 library (%s)"
+65066, "Resolving hostname %s."
+65067, "Connecting to %s."
+65068, "Connected."
+65069, "Disconnecting."
+65070, "Disconnected."
+65071, "%s"
+}

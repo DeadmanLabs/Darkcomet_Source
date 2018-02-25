@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65312, "Control '%s' has no parent window"
+65313, "Parent given is not a parent of '%s'"
+65314, "Cannot hide an MDI Child Form"
+65315, "Cannot change Visible in OnShow or OnHide"
+65316, "Cannot make a visible window modal"
+65317, "%s property out of range"
+65318, "Menu index out of range"
+65319, "Menu inserted twice"
+65320, "Sub-menu is not in menu"
+65321, "Not enough timers available"
+65322, "Printer is not currently printing"
+65323, "Printing in progress"
+65324, "Printer index out of range"
+65325, "Printer selected is not valid"
+65326, "%s on %s"
+65327, "GroupIndex cannot be less than a previous menu item's GroupIndex"
+}

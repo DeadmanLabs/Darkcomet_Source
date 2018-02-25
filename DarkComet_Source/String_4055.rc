@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64864, "Accept Error"
+64865, "Accept Failed"
+64866, "Accept Exit"
+64867, "Connect Loop"
+64868, "Connect Error"
+64869, "Connect Failed"
+64870, "Connect Exit"
+64871, "Handshake Start"
+64872, "Handshake Done"
+64873, "Unsupported object type. You can assign only one of the following types or their descendants: TStrings, TStream."
+64874, "Protocol field is empty"
+64875, "Host field is empty"
+64876, "Unsupported operation."
+64877, "Could not encode header data using charset \"%s\""
+64878, "'%s' is not a valid property value"
+64879, "OLE control activation failed"
+}

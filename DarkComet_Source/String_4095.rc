@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65504, "Floating point overflow"
+65505, "Floating point underflow"
+65506, "Invalid pointer operation"
+65507, "Invalid class typecast"
+65508, "Access violation at address %p. %s of address %p"
+65509, "Access violation"
+65510, "Stack overflow"
+65511, "Control-C hit"
+65512, "Privileged instruction"
+65513, "Operation aborted"
+65514, "Exception %s in module %s at %p.\r\n%s%s\r\n"
+65515, "Application Error"
+65516, "Format '%s' invalid or incompatible with argument"
+65517, "No argument for format '%s'"
+65518, "Variant method calls not supported"
+65519, "Read"
+}

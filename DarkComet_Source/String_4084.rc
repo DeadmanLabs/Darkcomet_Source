@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65328, "Cannot change the size of an icon"
+65329, "Cannot change the size of a WIC Image"
+65330, "Invalid operation on TOleGraphic"
+65331, "Unknown picture file extension (.%s)"
+65332, "Unsupported clipboard format"
+65333, "Out of system resources"
+65334, "Canvas does not allow drawing"
+65335, "Invalid image size"
+65336, "Invalid ImageList"
+65337, "Unable to Replace Image"
+65338, "Invalid ImageList Index"
+65339, "Failed to read ImageList data from stream"
+65340, "Failed to write ImageList data to stream"
+65341, "Error creating window device context"
+65342, "Error creating window class"
+65343, "Cannot focus a disabled or invisible window"
+}

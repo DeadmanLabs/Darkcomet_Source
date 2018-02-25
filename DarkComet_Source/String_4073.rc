@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65152, "Inactive Caption Text"
+65153, "Info Background"
+65154, "Info Text"
+65155, "Menu Background"
+65156, "Menu Bar"
+65157, "Menu Highlight"
+65158, "Menu Text"
+65159, "None"
+65160, "Scroll Bar"
+65161, "3D Dark Shadow"
+65162, "3D Light"
+65163, "Window Background"
+65164, "Window Frame"
+65165, "Window Text"
+65166, "Failed to clear tab control"
+65167, "Failed to delete tab at index %d"
+}

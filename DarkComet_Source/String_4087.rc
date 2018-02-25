@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65376, "Resource %s not found"
+65377, "%s.Seek not implemented"
+65378, "Operation not allowed on sorted list"
+65379, "%s not in a class registration group"
+65380, "Property %s does not exist"
+65381, "Stream write error"
+65382, "Thread creation error: %s"
+65383, "Thread Error: %s (%d)"
+65384, "Cannot terminate an externally created thread"
+65385, "Cannot wait for an externally created thread"
+65386, "Cannot call Start on a running or suspended thread"
+65387, "Cannot call CheckTerminated on an externally created thread"
+65388, "Cannot call SetReturnValue on an externally create thread"
+65389, "Parameter %s cannot be a negative value"
+65390, "Input buffer exceeded for %s = %d, %s = %d"
+65391, "Invalid characters in path"
+}

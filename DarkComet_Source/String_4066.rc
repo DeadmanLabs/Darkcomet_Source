@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65040, "Socket Error # %d\r\n%s"
+65041, "Interrupted system call."
+65042, "Bad file number."
+65043, "Access denied."
+65044, "Buffer fault."
+65045, "Invalid argument."
+65046, "Too many open files."
+65047, "Operation would block."
+65048, "Operation now in progress."
+65049, "Operation already in progress."
+65050, "Socket operation on non-socket."
+65051, "Destination address required."
+65052, "Message too long."
+65053, "Protocol wrong type for socket."
+65054, "Bad protocol option."
+65055, "Protocol not supported."
+}

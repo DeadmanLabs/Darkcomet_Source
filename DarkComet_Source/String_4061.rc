@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64960, "Max line read attempts exceeded."
+64961, "Max line length exceeded."
+64962, "Set LargeStream to True to send streams greater than 2GB"
+64963, "Data is too large for stream"
+64964, "Connect timed out."
+64965, "Cannot call TerminateAndWaitFor on FreeAndTerminate threads"
+64966, "Already connected."
+64967, "Maximum number of line allowed exceeded"
+64968, "The IOHandler already has a different Intercept assigned"
+64969, "Transparent proxy cannot bind."
+64970, "UDP Not supported by this proxy."
+64971, "Buffer terminator must be specified."
+64972, "Buffer start position is invalid."
+64973, "Cannot change a connected IOHandler."
+64974, "No IOHandler of type %s is installed."
+64975, "Reply Code is not valid: %s"
+}

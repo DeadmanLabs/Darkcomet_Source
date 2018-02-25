@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65088, "Space"
+65089, "String"
+65090, "Symbol"
+65091, "Text"
+65092, "Unknown Word"
+65093, "Value"
+65094, "Variable"
+65095, "%d - %d"
+65096, "Top Line: %d"
+65097, "Shortcut already exists"
+65098, "HTML Documents (*.htm;*.html)|*.htm;*.html"
+65099, "MS-DOS Batch Files (*.bat;*.cmd)|*.bat;*.cmd"
+65100, "Visual Basic Files (*.bas)|*.bas"
+65101, "Ruby Files (*.rb;*.rbw)|*.rb;*.rbw"
+65102, "MS-DOS Batch"
+65103, "HTML"
+}

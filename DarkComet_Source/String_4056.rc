@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64880, "Error creating SSL session."
+64881, "Error creating SSL context."
+64882, "Could not load root certificate."
+64883, "Could not load certificate."
+64884, "Could not load key, check password."
+64885, "Error geting SSL method."
+64886, "Error setting File Descriptor for SSL"
+64887, "Error binding data to SSL socket."
+64888, "EOF was observed that violates the protocol"
+64889, "Mode has not been set."
+64890, "Could not load SSL library."
+64891, "SSL status: \"%s\""
+64892, "%s Alert"
+64893, "%s Read Alert"
+64894, "%s Write Alert"
+64895, "Accept Loop"
+}

@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65136, "Failed to retrieve tab at index %d"
+65137, "Failed to get object at index %d"
+65138, "Failed to set tab \"%s\" at index %d"
+65139, "Failed to set object at index %d"
+65140, "MultiLine must be True when TabPosition is tpLeft or tpRight"
+65141, "Invalid item level assignment"
+65142, "Invalid level (%d) for item \"%s\""
+65143, "Invalid index"
+65144, "Unable to insert an item"
+65145, "Invalid owner"
+65146, "RichEdit line insertion error"
+65147, "Failed to Load Stream"
+65148, "Failed to Save Stream"
+65149, "%d is an invalid PageIndex value.  PageIndex must be between 0 and %d"
+65150, "This control requires version 4.70 or greater of COMCTL32.DLL"
+65151, "This \"Portable Network Graphics\" image is not valid because it contains invalid pieces of data (crc error)"
+}

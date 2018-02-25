@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65008, "Connection timed out."
+65009, "Connection refused."
+65010, "Too many levels of symbolic links."
+65011, "File name too long."
+65012, "Host is down."
+65013, "No route to host."
+65014, "Directory not empty"
+65015, "Host not found."
+65016, "Stack Class is undefined."
+65017, "Stack already created."
+65018, "Only one TIdAntiFreeze can exist per application."
+65019, "Cannot change IPVersion when connected"
+65020, "Can not bind in port range (%d - %d)"
+65021, "Connection Closed Gracefully."
+65022, "Could not bind socket. Address and port are already in use."
+65023, "Invalid Port Range (%d - %d)"
+}

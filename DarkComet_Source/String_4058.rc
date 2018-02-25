@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64912, "The function completed successfully, but both CompleteToken and this function must be called to complete the context"
+64913, "The logon was completed, but no network authority was available. The logon was made using locally known information"
+64914, "The requested security package does not exist"
+64915, "The context has expired and can no longer be used."
+64916, "The supplied message is incomplete.  The signature was not verified."
+64917, "The credentials supplied were not complete, and could not be verified. The context could not be initialized."
+64918, "The buffers supplied to a function was too small."
+64919, "The credentials supplied were not complete, and could not be verified. Additional information can be returned from the context."
+64920, "The context data must be renegotiated with the peer."
+64921, "The target principal name is incorrect."
+64922, "There is no LSA mode context associated with this context."
+64923, "The clocks on the client and server machines are skewed."
+64924, "The certificate chain was issued by an untrusted authority."
+64925, "The message received was unexpected or badly formatted."
+64926, "An unknown error occurred while processing the certificate."
+64927, "The received certificate has expired."
+}

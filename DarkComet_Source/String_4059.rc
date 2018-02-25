@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64928, "The Local Security Authority cannot be contacted"
+64929, "The requested security package does not exist"
+64930, "The caller is not the owner of the desired credentials"
+64931, "The security package failed to initialize, and cannot be installed"
+64932, "The token supplied to the function is invalid"
+64933, "The security package is not able to marshall the logon buffer, so the logon attempt has failed"
+64934, "The per-message Quality of Protection is not supported by the security package"
+64935, "The security context does not allow impersonation of the client"
+64936, "The logon attempt failed"
+64937, "The credentials supplied to the package were not recognized"
+64938, "No credentials are available in the security package"
+64939, "The message or signature supplied for verification has been altered"
+64940, "The message supplied for verification is out of sequence"
+64941, "No authority could be contacted for authentication."
+64942, "The function completed successfully, but must be called again to complete the context"
+64943, "The function completed successfully, but CompleteToken must be called"
+}

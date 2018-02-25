@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65440, "April"
+65441, "May"
+65442, "June"
+65443, "July"
+65444, "August"
+65445, "September"
+65446, "October"
+65447, "November"
+65448, "December"
+65449, "Sun"
+65450, "Mon"
+65451, "Tue"
+65452, "Wed"
+65453, "Thu"
+65454, "Fri"
+65455, "Sat"
+}

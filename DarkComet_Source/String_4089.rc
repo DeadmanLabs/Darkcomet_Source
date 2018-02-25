@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65408, "Ancestor for '%s' not found"
+65409, "Cannot assign a %s to a %s"
+65410, "Bits index out of range"
+65411, "Can't write to a read-only resource stream"
+65412, "CheckSynchronize called from thread $%x, which is NOT the main thread"
+65413, "Class %s not found"
+65414, "A class named %s already exists"
+65415, "List does not allow duplicates ($0%x)"
+65416, "A component named %s already exists"
+65417, "String list does not allow duplicates"
+65418, "Cannot create file \"%s\". %s"
+65419, "Cannot open file \"%s\". %s"
+65420, "Unable to write to %s"
+65421, "Invalid file name - %s"
+65422, "Invalid stream format"
+65423, "''%s'' is not a valid component name"
+}

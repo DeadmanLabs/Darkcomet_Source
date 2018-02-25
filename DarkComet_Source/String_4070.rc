@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65104, "The png image could not be loaded from the resource ID."
+65105, "Some operation could not be performed because the system is out of resources. Close some windows and try again."
+65106, "Setting bit transparency color is not allowed for png images containing alpha value for each pixel (COLOR_RGBALPHA and COLOR_GRAYSCALEALPHA)"
+65107, "This operation is not valid because the current image contains no valid header."
+65108, "The new size provided for image resizing is invalid."
+65109, "The \"Portable Network Graphics\" could not be created because invalid image type parameters have being provided."
+65110, "Cannot change the size of a JPEG image"
+65111, "JPEG error #%d"
+65112, "JPEG Image File"
+65113, "Comment"
+65114, "Escape Ampersand"
+65115, "Identifier"
+65116, "Key"
+65117, "Number"
+65118, "Reserved Word"
+65119, "Second Reserved Word"
+}

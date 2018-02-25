@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65424, "Sunday"
+65425, "Monday"
+65426, "Tuesday"
+65427, "Wednesday"
+65428, "Thursday"
+65429, "Friday"
+65430, "Saturday"
+65431, "Unable to create directory"
+65432, "Invalid source array"
+65433, "Invalid destination array"
+65434, "Character index out of bounds (%d)"
+65435, "Start index out of bounds (%d)"
+65436, "Invalid count (%d)"
+65437, "Invalid destination index (%d)"
+65438, "Invalid code page"
+65439, "Invalid encoding name"
+}

@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65344, "No help found for context %d"
+65345, "Unable to open Index"
+65346, "Unable to open Search"
+65347, "Unable to find a Table of Contents"
+65348, "No topic-based help system installed"
+65349, "No help found for %s"
+65350, "Can't write to a read-only resource stream"
+65351, "Tab index out of bounds"
+65352, "Tab position incompatible with current tab style"
+65353, "Tab style incompatible with current tab position"
+65354, "Bitmap image is not valid"
+65355, "Icon image is not valid"
+65356, "Metafile is not valid"
+65357, "Invalid pixel format"
+65358, "Invalid image"
+65359, "Scan line index out of range"
+}

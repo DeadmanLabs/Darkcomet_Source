@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65232, "Picture:"
+65233, " (%dx%d)"
+65234, "Preview"
+65235, "Docked control must have a name"
+65236, "Error removing control from dock tree"
+65237, " - Dock zone not found"
+65238, " - Dock zone has no control"
+65239, "Error loading dock zone from the stream. Expecting version %d, but found %d."
+65240, "Text not found: \"%s\""
+65241, "Custom..."
+65242, "Multiselect mode must be on for this feature"
+65243, "Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar"
+65244, "Item %s has subitems, delete anyway?"
+65245, "You are not allowed to delete this item"
+65246, "Item %s is not allowed to be moved"
+65247, "More Buttons"
+}

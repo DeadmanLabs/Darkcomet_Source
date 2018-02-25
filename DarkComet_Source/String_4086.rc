@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65360, "The specified path is too long"
+65361, "The specified path was not found"
+65362, "The path format is not supported"
+65363, "The specified file was not found"
+65364, "No help viewer that supports filters"
+65365, "String index out of range (%d).  Must be >= 1 and <= %d"
+65366, "High surrogate char without a following low surrogate char at index: %d. Check that the string is encoded properly"
+65367, "Low surrogate char without a preceding high surrogate char at index: %d. Check that the string is encoded properly"
+65368, "Length of Strings and Objects arrays must be equal"
+65369, "Invalid Timeout value: %s"
+65370, "''%s'' is not a valid date"
+65371, "''%s'' is not a valid date and time"
+65372, "''%s'' is not a valid integer value"
+65373, "''%s'' is not a valid time"
+65374, "Invalid argument to time encode"
+65375, "No context-sensitive help installed"
+}

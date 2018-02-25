@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65168, "Application Workspace"
+65169, "Background"
+65170, "Button Face"
+65171, "Button Highlight"
+65172, "Button Shadow"
+65173, "Button Text"
+65174, "Caption Text"
+65175, "Default"
+65176, "Gradient Active Caption"
+65177, "Gradient Inactive Caption"
+65178, "Gray Text"
+65179, "Highlight Background"
+65180, "Highlight Text"
+65181, "Hot Light"
+65182, "Inactive Border"
+65183, "Inactive Caption"
+}

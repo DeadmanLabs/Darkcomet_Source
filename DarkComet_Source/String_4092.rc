@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65456, "Application is not licensed to use this feature"
+65457, "Jan"
+65458, "Feb"
+65459, "Mar"
+65460, "Apr"
+65461, "May"
+65462, "Jun"
+65463, "Jul"
+65464, "Aug"
+65465, "Sep"
+65466, "Oct"
+65467, "Nov"
+65468, "Dec"
+65469, "January"
+65470, "February"
+65471, "March"
+}

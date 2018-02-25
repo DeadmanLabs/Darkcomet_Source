@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64944, "Reply Code already exists: %s"
+64945, "IOHandler value is not valid"
+64946, "Algorithm %s not permitted in FIPS mode"
+64947, "Extension is empty"
+64948, "Mimetype is empty"
+64949, "Extension already exits"
+64950, "Chunk Started"
+64951, "Not Acceptable"
+64952, "Unknown Protocol"
+64953, "Request method requires HTTP version 1.1"
+64954, "Unsupported hash algorithm. This implementation supports only MD5 encoding."
+64955, "Successfull API call"
+64956, "Not enough memory is available to complete this request"
+64957, "The handle specified is invalid"
+64958, "The function requested is not supported"
+64959, "The specified target is unknown or unreachable"
+}

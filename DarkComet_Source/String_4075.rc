@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65184, "Teal"
+65185, "Gray"
+65186, "Silver"
+65187, "Red"
+65188, "Lime"
+65189, "Yellow"
+65190, "Blue"
+65191, "Fuchsia"
+65192, "Aqua"
+65193, "White"
+65194, "Money Green"
+65195, "Sky Blue"
+65196, "Cream"
+65197, "Medium Gray"
+65198, "Active Border"
+65199, "Active Caption"
+}

@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65216, "Expand"
+65217, "Error loading previously saved settings file: %s\rWould you like to delete it?"
+65218, "(No Name)"
+65219, "&Add or Remove Buttons"
+65220, "Reset Toolbar"
+65221, "Separator"
+65222, "Circular references not allowed"
+65223, "%s does not allow hiding"
+65224, "Unable to save settings"
+65225, "Would you like to reset to the default Priority Schedule?"
+65226, "No OnGetItem event handler assigned"
+65227, "A style named %s has not been registered"
+65228, "No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause"
+65229, "ANSI"
+65230, "ASCII"
+65231, "Unicode"
+}

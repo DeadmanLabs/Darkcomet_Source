@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65248, "Ins"
+65249, "Del"
+65250, "Shift+"
+65251, "Ctrl+"
+65252, "Alt+"
+65253, "(None)"
+65254, "Value must be between %d and %d"
+65255, "All"
+65256, "Unable to insert a line"
+65257, "Invalid clipboard format"
+65258, "Clipboard does not support Icons"
+65259, "Cannot open clipboard: %s"
+65260, "Text exceeds memo capacity"
+65261, "Operation not supported on selected printer"
+65262, "There is no default printer currently selected"
+65263, "Menu '%s' is already being used by another form"
+}

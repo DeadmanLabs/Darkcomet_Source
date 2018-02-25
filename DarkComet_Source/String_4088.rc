@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65392, "Invalid property value"
+65393, "Invalid property element: %s"
+65394, "Invalid property path"
+65395, "Invalid property value"
+65396, "Invalid data type for '%s'"
+65397, "List capacity out of bounds (%d)"
+65398, "List count out of bounds (%d)"
+65399, "List index out of bounds (%d)"
+65400, "Out of memory while expanding memory stream"
+65401, "%s has not been registered as a COM class"
+65402, "Error reading %s%s%s: %s"
+65403, "Stream read error"
+65404, "Property is read-only"
+65405, "Failed to create key %s"
+65406, "Failed to get data for '%s'"
+65407, "Failed to set data for '%s'"
+}

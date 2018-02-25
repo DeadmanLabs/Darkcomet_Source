@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65200, "Big Endian Unicode"
+65201, "UTF-8"
+65202, "UTF-7"
+65203, "Cannot remove shell notification icon"
+65204, "PageControl must first be assigned"
+65205, "%s requires Windows Vista or later"
+65206, "%s requires themes to be enabled"
+65207, "Button%d"
+65208, "RadioButton%d"
+65209, "Caption cannot be empty"
+65210, "Black"
+65211, "Maroon"
+65212, "Green"
+65213, "Olive"
+65214, "Navy"
+65215, "Purple"
+}

@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64896, "The specified data could not be encrypted."
+64897, "The specified data could not be decrypted."
+64898, "The client and server cannot communicate, because they do not possess a common algorithm."
+64899, "The security context could not be established due to a failure in the requested quality of service (e.g. mutual authentication or delegation)."
+64900, "Unknown error"
+64901, "SSPI %s returns error #%d(0x%x): %s"
+64902, "SSPI interface has failed to initialise properly"
+64903, "No PSecPkgInfo specified"
+64904, "No credential handle acquired"
+64905, "Can not change credentials after handle aquired. Use Release first"
+64906, "Unknown credentials use"
+64907, "Do AcquireCredentialsHandle first"
+64908, "CompleteAuthToken is not supported"
+64909, "Error accepting connection with SSL."
+64910, "Error connecting with SSL."
+64911, "SetCipher failed."
+}

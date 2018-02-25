@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64976, "General SOCKS server failure."
+64977, "Connection not allowed by ruleset."
+64978, "Network unreachable."
+64979, "Host unreachable."
+64980, "Connection refused."
+64981, "TTL expired."
+64982, "Command not supported."
+64983, "Address type not supported."
+64984, "%d: Circular links are not allowed"
+64985, "Not enough data in buffer. (%d/%d)"
+64986, "Too much data in buffer."
+64987, "File \"%s\" not found"
+64988, "Not Connected"
+64989, "Object type not supported."
+64990, "No data to read."
+64991, "Read timed out."
+}

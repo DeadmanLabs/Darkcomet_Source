@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65520, "'%s' is not a valid floating point value"
+65521, "'%d.%d' is not a valid timestamp"
+65522, "'%s' is not a valid GUID value"
+65523, "Invalid argument to date encode"
+65524, "Out of memory"
+65525, "I/O error %d"
+65526, "Too many open files"
+65527, "File access denied"
+65528, "Read beyond end of file"
+65529, "Disk full"
+65530, "Invalid numeric input"
+65531, "Division by zero"
+65532, "Range check error"
+65533, "Integer overflow"
+65534, "Invalid floating point operation"
+65535, "Floating point division by zero"
+}

@@ -1,0 +1,17 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64848, "Could not obtain OLE control window handle"
+64849, "License information for %s is invalid"
+64850, "License information for %s not found. You cannot use this control in design mode"
+64851, "Unable to retrieve a pointer to a running object registered with OLE for %s/%s"
+64852, "Edit link must not be nil."
+64853, "Target node cannot be a child node of the node to be moved."
+64854, "Unable to load tree structure, the format is wrong."
+64855, "Unable to load tree structure, the version is unknown."
+64856, "Unable to load tree structure, not enough data available."
+64857, "Stream data corrupt. A node's anchor chunk is missing."
+64858, "Stream data corrupt. Unexpected data after node's end position."
+64859, "Clipboard operation failed."
+64860, "Cannot set initial user data because there is not enough user data space allocated."
+}

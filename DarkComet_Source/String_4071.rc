@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65120, "The \"Portable Network Graphics\" image could not be loaded because one of its main piece of data (ihdr) might be corrupted"
+65121, "This \"Portable Network Graphics\" image is invalid because it has missing image parts."
+65122, "Could not decompress the image because it contains invalid compressed data.\r\n Description: "
+65123, "The \"Portable Network Graphics\" image contains an invalid palette."
+65124, "The file being read is not a valid \"Portable Network Graphics\" image because it contains an invalid header. This file may be corrupted, try obtaining it again"
+65125, "This \"Portable Network Graphics\" image is not supported or it might be invalid.\r\n(IHDR chunk is not the first)"
+65126, "This \"Portable Network Graphics\" image is not supported because either its width or height exceeds the maximum size of 65535 pixels."
+65127, "There is no such palette entry."
+65128, "This \"Portable Network Graphics\" image contains an unknown critical part which could not be decoded."
+65129, "This \"Portable Network Graphics\" image is encoded with an unknown compression scheme which could not be decoded."
+65130, "This \"Portable Network Graphics\" image uses an unknown interlace scheme which could not be decoded."
+65131, "The chunks must be compatible to be assigned."
+65132, "This \"Portable Network Graphics\" image is invalid because the decoder found an unexpected end of the file."
+65133, "This \"Portable Network Graphics\" image contains no data."
+65134, "The program tried to add a existent critical chunk to the current image which is not allowed."
+65135, "It's not allowed to add a new chunk because the current image is invalid."
+}

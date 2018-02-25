@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65072, "Visual Basic"
+65073, "Ruby"
+65074, "<Unknown>"
+65075, "Invalid stringlist index %d"
+65076, "Stringlist capacity cannot be smaller than count"
+65077, "OLE error %.8x"
+65078, "Method '%s' not supported by automation object"
+65079, "Variant does not reference an automation object"
+65080, "Dispatch methods do not support more than 64 parameters"
+65081, "DCOM not installed"
+65082, "Mi&nimize"
+65083, "Ma&ximize"
+65084, "&Close"
+65085, "&Restore"
+65086, "Minimize to &Tray"
+65087, "Ro&llUp"
+}

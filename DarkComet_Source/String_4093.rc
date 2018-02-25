@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65472, "Invalid argument"
+65473, "Invalid variant type"
+65474, "Operation not supported"
+65475, "Unexpected variant error"
+65476, "External exception %x"
+65477, "Assertion failed"
+65478, "Interface not supported"
+65479, "Exception in safecall method"
+65480, "Object lock not owned"
+65481, "Monitor support function not initialized"
+65482, "Feature not implemented"
+65483, "%s (%s, line %d)"
+65484, "Abstract Error"
+65485, "Access violation at address %p in module '%s'. %s of address %p"
+65486, "System Error.  Code: %d.\r\n%s"
+65487, "A call to an OS function failed"
+}

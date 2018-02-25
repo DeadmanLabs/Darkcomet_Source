@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65488, "Write"
+65489, "Format string too long"
+65490, "Error creating variant or safe array"
+65491, "Variant or safe array index out of bounds"
+65492, "Variant or safe array is locked"
+65493, "Invalid variant type conversion"
+65494, "Invalid variant operation"
+65495, "Invalid NULL variant operation"
+65496, "Invalid variant operation (%s%.8x)\n%s"
+65497, "Custom variant type (%s%.4x) is out of range"
+65498, "Custom variant type (%s%.4x) already used by %s"
+65499, "Custom variant type (%s%.4x) is not usable"
+65500, "Too many custom variant types have been registered"
+65501, "Could not convert variant of type (%s) into type (%s)"
+65502, "Overflow while converting variant of type (%s) into type (%s)"
+65503, "Variant overflow"
+}

@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65024, "Socket type not supported."
+65025, "Operation not supported on socket."
+65026, "Protocol family not supported."
+65027, "Address family not supported by protocol family."
+65028, "Address already in use."
+65029, "Cannot assign requested address."
+65030, "Network is down."
+65031, "Network is unreachable."
+65032, "Net dropped connection or reset."
+65033, "Software caused connection abort."
+65034, "Connection reset by peer."
+65035, "No buffer space available."
+65036, "Socket is already connected."
+65037, "Socket is not connected."
+65038, "Cannot send or receive after socket is closed."
+65039, "Too many references, cannot splice."
+}

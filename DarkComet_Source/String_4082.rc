@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65296, "Cannot create form. No MDI forms are currently active"
+65297, "Can only modify an image if it contains a bitmap"
+65298, "A control cannot have itself as its parent"
+65299, "OK"
+65300, "Cancel"
+65301, "&Yes"
+65302, "&No"
+65303, "&Help"
+65304, "&Close"
+65305, "&Ignore"
+65306, "&Retry"
+65307, "Abort"
+65308, "&All"
+65309, "Cannot drag a form"
+65310, "Metafiles"
+65311, "Enhanced Metafiles"
+}

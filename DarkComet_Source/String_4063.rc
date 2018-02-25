@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+64992, "%s is not a valid service."
+64993, "IPv6 unavailable"
+64994, "%s is not a valid IPv6 address"
+64995, "The requested IPVersion / Address family is not supported."
+64996, "Not all bytes sent."
+64997, "Package Size Too Big."
+64998, "Set Size Exceeded."
+64999, "End of stream: Class %s at %d"
+65000, "UDP is not support in this SOCKS version."
+65001, "Request rejected or failed."
+65002, "Request rejected because SOCKS server cannot connect."
+65003, "Request rejected because the client program and identd report different user-ids."
+65004, "Unknown socks error."
+65005, "Socks server did not respond."
+65006, "Invalid socks authentication method."
+65007, "Authentication error to socks server."
+}

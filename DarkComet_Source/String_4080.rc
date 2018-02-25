@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65264, "N&o to All"
+65265, "Yes to &All"
+65266, "&Close"
+65267, "BkSp"
+65268, "Tab"
+65269, "Esc"
+65270, "Enter"
+65271, "Space"
+65272, "PgUp"
+65273, "PgDn"
+65274, "End"
+65275, "Home"
+65276, "Left"
+65277, "Up"
+65278, "Right"
+65279, "Down"
+}

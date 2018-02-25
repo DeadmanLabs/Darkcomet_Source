@@ -1,0 +1,20 @@
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+65280, "Icons"
+65281, "Bitmaps"
+65282, "TIFF Images"
+65283, "Warning"
+65284, "Error"
+65285, "Information"
+65286, "Confirm"
+65287, "&Yes"
+65288, "&No"
+65289, "OK"
+65290, "Cancel"
+65291, "&Help"
+65292, "&Abort"
+65293, "&Retry"
+65294, "&Ignore"
+65295, "&All"
+}
